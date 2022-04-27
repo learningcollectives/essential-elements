@@ -1,4 +1,4 @@
-# essential-elements
+# Essential Elements
 
 ## Onbaording documents
 
