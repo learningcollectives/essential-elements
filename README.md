@@ -6,7 +6,7 @@
 
 ## Working Documents
 * [Building Block List]()
-* [Content Creation Template - Mini Lesson (Building Block](https://docs.google.com/document/d/1pjzcRC7kXylhBHdZirqVrOyyJWUthOpnJJ5VEdDNbgg/edit#heading=h.gaqq0cukg80)
+* [Content Creation Template - Mini Lesson (Building Block)](https://docs.google.com/document/d/1pjzcRC7kXylhBHdZirqVrOyyJWUthOpnJJ5VEdDNbgg/edit#heading=h.gaqq0cukg80)
 * [To Share Resources](https://forms.gle/BSKH58qf3uiF3jhZ9)
 
 ## Reference Documents
