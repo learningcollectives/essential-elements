@@ -5,7 +5,7 @@
 * [Recommended Resources](https://docs.google.com/spreadsheets/d/1OJX0epk1H_tOJLsPE8DFoTtTxAn2tnfNljDxVxI1E1U/edit?usp=sharing)
 
 ## Working Documents
-* [Building Block List]()
+* [Building Block List](https://docs.google.com/spreadsheets/d/1RPumtyx6R741rYaI1WsF1EE3TCDN314iTQPpzUCQelA/edit#gid=0)
 * [Content Creation Template - Mini Lesson (Building Block)](https://docs.google.com/document/d/1pjzcRC7kXylhBHdZirqVrOyyJWUthOpnJJ5VEdDNbgg/edit#heading=h.gaqq0cukg80)
 * [To Share Resources](https://forms.gle/BSKH58qf3uiF3jhZ9)
 
